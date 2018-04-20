@@ -1,0 +1,33 @@
+安装 CentOS-7-x86_64-LiveGNOME-1708
+yum update
+
+下载 epel-release-latest-7.noarch
+安装 rpm -ivh epel-release-latest-7.noarch.rpm
+
+
+yum install git qt5-qttools-devel qt5-qtbase-devel
+yum install libevent-devel
+yum install libdb4-cxx-devel
+yum install libtool-devel leveldb-devel
+yum install openssl-devel boost-devel protobuf-devel
+yum install cmake automake autoconf gcc-c++ gcc kernel-devel
+
+
+git clone https://github.com/bitcoin/bitcoin.git
+git checkout 0.12
+cd bitcoin
+./autogen.sh
+./configure
+make
+make install
+
+
+yum install git qt5-qttools-devel qt5-qtbase-devel libevent-devel libdb4-cxx-devel libtool leveldb-devel openssl-devel boost-devel protobuf-devel cmake automake autoconf zeromq-devel patch
+
+libtool: install: /usr/bin/install -c bitcoind /usr/local/bin/bitcoind
+libtool: install: /usr/bin/install -c bitcoin-cli /usr/local/bin/bitcoin-cli
+libtool: install: /usr/bin/install -c bitcoin-tx /usr/local/bin/bitcoin-tx
+libtool: install: /usr/bin/install -c test/test_bitcoin /usr/local/bin/test_bitcoin
+libtool: install: /usr/bin/install -c bench/bench_bitcoin /usr/local/bin/bench_bitcoin
+libtool: install: /usr/bin/install -c qt/bitcoin-qt /usr/local/bin/bitcoin-qt
+libtool: install: /usr/bin/install -c qt/test/test_bitcoin-qt /usr/local/bin/test_bitcoin-qt

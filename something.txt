@@ -1,0 +1,35 @@
+systemctl start mysqld
+mysql 5.7 查看初始密码 grep 'temporary password' /var/log/mysqld.log
+set password for root@localhost = password("Mysql234142#")
+开放端口 firewall-cmd --zone=public --add-port=3306/tcp --permanent(没有--permanent则重启失效)
+systemctl stop firewalld
+yum install php-pear php-devel
+pecl channel-update pecl.php.net
+pecl install swoole
+
+php -m 查看是否有swoole。有swoole说明安装成功。
+
+visual studio 2017 vs2017 NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+
+svnadmin create /var/svn/svnrepos
+vi authz 在末尾添加如下代码：
+[/]  
+quwenzhe=rw  
+
+vi svnserve.conf
+anon-access = read #匿名用户可读
+   auth-access = write #授权用户可写
+   password-db = passwd #使用哪个文件作为账号文件
+   authz-db = authz #使用哪个文件作为权限文件
+   realm = /var/svn/svnrepos # 认证空间名，版本库所在目录
+
+启动svn版本库  svnserve -d -r /var/svn/svnrepos（停止SVN命令  killall svnserve）
+centos开机自动启动SVN服务的方法
+
+1、编辑rc.local文件
+vi /etc/rc.d/rc.local
+
+2、加入如下启动命令
+/usr/bin/svnserve -d -r /home/svn
+
+nohup php myprog.php > log.txt & 
