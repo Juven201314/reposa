@@ -1,0 +1,443 @@
+Sangokushi10 System Check
+
+
+Memory : 4095M
+CPU : Pentium
+GenuineIntel
+INTEL Pentium-III
+MMX available
+SSE available
+SSE2 available
+family 06 model a stepping 7 
+3223.925 MHz 
+
+DisplaySettings
+    1440亊 900 256 Color
+    1440亊 900 256 Color
+    1440亊 900 High Color
+    1440亊 900 High Color
+=>  1440亊 900 True Color(32bit)
+=>  1440亊 900 True Color(32bit)
+     640亊 480 True Color(32bit)
+     640亊 480 True Color(32bit)
+     640亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 480 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     720亊 576 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+     800亊 600 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1024亊 768 True Color(32bit)
+    1152亊 864 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 720 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 768 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 800 True Color(32bit)
+    1280亊 960 True Color(32bit)
+    1280亊1024 True Color(32bit)
+    1280亊1024 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1360亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+    1366亊 768 True Color(32bit)
+     640亊 480 High Color
+     640亊 480 High Color
+     640亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 480 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     720亊 576 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+     800亊 600 High Color
+    1024亊 768 High Color
+    1024亊 768 High Color
+    1024亊 768 High Color
+    1152亊 864 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 720 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 768 High Color
+    1280亊 800 High Color
+    1280亊 800 High Color
+    1280亊 960 High Color
+    1280亊1024 High Color
+    1280亊1024 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1360亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+    1366亊 768 High Color
+     640亊 480 256 Color
+     640亊 480 256 Color
+     640亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 480 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     720亊 576 256 Color
+     800亊 600 256 Color
+     800亊 600 256 Color
+     800亊 600 256 Color
+     800亊 600 256 Color
+    1024亊 768 256 Color
+    1024亊 768 256 Color
+    1024亊 768 256 Color
+    1152亊 864 256 Color
+    1280亊 720 256 Color
+    1280亊 720 256 Color
+    1280亊 720 256 Color
+    1280亊 720 256 Color
+    1280亊 720 256 Color
+    1280亊 720 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 768 256 Color
+    1280亊 800 256 Color
+    1280亊 800 256 Color
+    1280亊 960 256 Color
+    1280亊1024 256 Color
+    1280亊1024 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1360亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+    1366亊 768 256 Color
+
+ KERNEL32.DLL : FileVersionInfoSize is Empty.
+ SHELL32.DLL : FileVersionInfoSize is Empty.
+ COMCTL32.DLL : FileVersionInfoSize is Empty.
+ DDRAW.DLL : FileVersionInfoSize is Empty.
+ D3D8.DLL : FileVersionInfoSize is Empty.
+ D3D9.DLL : FileVersionInfoSize is Empty.
+ DSOUND.DLL : FileVersionInfoSize is Empty.
+ KOEILW.DLL : FileVersionInfoSize is Empty.
+ KDVDDSND.DLL : FileVersionInfoSize is Empty.
+
+registry infomation 
+System devices:ACPI丗@acpi.inf,%*pnp0c08.devicedesc%;Microsoft ACPI-Compliant System: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @acpi.inf,%msft%;Microsoft
+Non-Plug and Play Drivers:AFD丗@%systemroot%\system32\drivers\afd.sys,-1000: :  :Date  Ver 
+Non-Plug and Play Drivers:atapi丗IDE Channel: :  :Date  Ver 
+IDE ATA/ATAPI controllers:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE 通道: ATA Channel 1: Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @mshdc.inf,%ms-drivers%;(标准 IDE ATA/ATAPI 控制器)
+IDE ATA/ATAPI controllers:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE 通道: ATA Channel 2: Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @mshdc.inf,%ms-drivers%;(标准 IDE ATA/ATAPI 控制器)
+IDE ATA/ATAPI controllers:atapi丗@mshdc.inf,%idechannel.devicedesc%;IDE 通道: ATA Channel 3: Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @mshdc.inf,%ms-drivers%;(标准 IDE ATA/ATAPI 控制器)
+Non-Plug and Play Drivers:Beep丗Beep: :  :Date  Ver 
+Non-Plug and Play Drivers:bowser丗@%systemroot%\system32\browser.dll,-102: :  :Date  Ver 
+Non-Plug and Play Drivers:cdfs丗CD/DVD File System Reader: :  :Date  Ver 
+DVD/CD-ROM drives:cdrom丗@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive: Optiarc DVD RW AD-7260S ATA Device: Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @cdrom.inf,%genmanufacturer%;(标准 CD-ROM 驱动器)
+DVD/CD-ROM drives:cdrom丗@cdrom.inf,%gencdrom_devdesc%;CD-ROM Drive: DTSOFT Virtual CdRom Device: Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @cdrom.inf,%genmanufacturer%;(标准 CD-ROM 驱动器)
+Non-Plug and Play Drivers:CLFS丗@%SystemRoot%\system32\clfs.sys,-100: :  :Date  Ver 
+Non-Plug and Play Drivers:CNG丗CNG: :  :Date  Ver 
+System devices:CompositeBus丗@compositebus.inf,%compositebus.devicedesc%;复合总线枚举器: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @compositebus.inf,%msft%;Microsoft
+Non-Plug and Play Drivers:CSC丗@%systemroot%\system32\cscsvc.dll,-202: :  :Date  Ver 
+Non-Plug and Play Drivers:DfsC丗@%systemroot%\system32\drivers\dfsc.sys,-101: :  :Date  Ver 
+System devices:dtsoftbus01丗@oem2.inf,%dtsoftbus.devicedesc%;DAEMON Tools Virtual Bus: : DT Soft Ltd :Date 2-21-2014 Ver 4.49.1.352: @oem2.inf,%stdmfg%;DT Soft Ltd
+Non-Plug and Play Drivers:DXGKrnl丗LDDM Graphics Subsystem: :  :Date  Ver 
+Non-Plug and Play Drivers:eamonm丗eamonm: :  :Date  Ver 
+Non-Plug and Play Drivers:ehdrv丗ehdrv: :  :Date  Ver 
+Keyboards:i8042prt丗@keyboard.inf,%*pnp0303.devicedesc%;PS/2 标准键盘: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @keyboard.inf,%std-keyboards%;(标准键盘)
+Non-Plug and Play Drivers:epfw丗epfw: :  :Date  Ver 
+Non-Plug and Play Drivers:EpfwLWF丗ESET Personal Firewall: :  :Date  Ver 
+Non-Plug and Play Drivers:epfwwfp丗epfwwfp: :  :Date  Ver 
+Non-Plug and Play Drivers:FileInfo丗@%SystemRoot%\system32\drivers\fileinfo.sys,-100: :  :Date  Ver 
+Non-Plug and Play Drivers:FltMgr丗@%SystemRoot%\system32\drivers\fltmgr.sys,-10001: :  :Date  Ver 
+Non-Plug and Play Drivers:Fs_Rec丗Fs_Rec: :  :Date  Ver 
+Non-Plug and Play Drivers:fvevol丗@%SystemRoot%\system32\drivers\fvevol.sys,-100: :  :Date  Ver 
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+System devices:HDAudBus丗@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio 控制器: : Microsoft :Date 11-19-2010 Ver 6.1.7601.17514: Microsoft
+System devices:HDAudBus丗@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio 控制器: : Microsoft :Date 11-19-2010 Ver 6.1.7601.17514: Microsoft
+Human Interface Devices:HidUsb丗@input.inf,%hid.devicedesc%;USB 输入设备: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @input.inf,%stdmfg%;(标准系统设备)
+Keyboards:i8042prt丗@keyboard.inf,%*pnp0303.devicedesc%;PS/2 标准键盘: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @keyboard.inf,%std-keyboards%;(标准键盘)
+Processors:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E31230 @ 3.20GHz: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @cpu.inf,%intel%;Intel
+Processors:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E31230 @ 3.20GHz: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @cpu.inf,%intel%;Intel
+Processors:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E31230 @ 3.20GHz: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @cpu.inf,%intel%;Intel
+Processors:intelppm丗@cpu.inf,%intelppm.devicedesc%;Intel Processor: Intel(R) Xeon(R) CPU E31230 @ 3.20GHz: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @cpu.inf,%intel%;Intel
+System devices:pci丗@oem5.inf,%xhci.devicedesc%;PCI 总线: : 英特尔 :Date 2-22-2013 Ver 1.0.8.251: @oem5.inf,%stddev%;（标准系统设备）
+Universal Serial Bus controllers:iusb3hub丗@oem3.inf,%iusb3hubdevicedescroot%;英特尔(R) USB 3.0 根集线器: : Intel(R) Corporation :Date 2-22-2013 Ver 1.0.8.251: Intel(R) Corporation
+Universal Serial Bus controllers:iusb3xhc丗@oem4.inf,%iusb3xhcdevicedesc01%;英特尔(R) USB 3.0 可扩展主机控制器: : Intel(R) Corporation :Date 2-22-2013 Ver 1.0.8.251: Intel(R) Corporation
+System devices:TermDD丗@machine.inf,%rdp_kbd.devicedesc%;Terminal Server Keyboard Driver: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%gendev_mfg%;(标准系统设备)
+Keyboards:i8042prt丗@keyboard.inf,%*pnp0303.devicedesc%;PS/2 标准键盘: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @keyboard.inf,%std-keyboards%;(标准键盘)
+Non-Plug and Play Drivers:KSecDD丗KSecDD: :  :Date  Ver 
+Non-Plug and Play Drivers:KSecPkg丗KSecPkg: :  :Date  Ver 
+Sound, video and game controllers:NVHDA丗@oem15.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 2-8-2017 Ver 1.3.34.23: @oem15.inf,%mfgname%;NVIDIA
+Sound, video and game controllers:NVHDA丗@oem15.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 2-8-2017 Ver 1.3.34.23: @oem15.inf,%mfgname%;NVIDIA
+Sound, video and game controllers:NVHDA丗@oem15.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 2-8-2017 Ver 1.3.34.23: @oem15.inf,%mfgname%;NVIDIA
+Sound, video and game controllers:NVHDA丗@oem15.inf,%nvidia.devicedesc%;NVIDIA High Definition Audio: : NVIDIA Corporation :Date 2-8-2017 Ver 1.3.34.23: @oem15.inf,%mfgname%;NVIDIA
+Sound, video and game controllers:IntcAzAudAddService丗Realtek High Definition Audio: : Realtek Semiconductor Corp. :Date 3-10-2015 Ver 6.0.1.7464: @oem13.inf,%mfgname%;Realtek
+Imaging devices:usbvideo丗@usbvideo.inf,%usbvideo.devicedesc%;USB 视频设备: USB2.0 PC CAMERA: Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usbvideo.inf,%msft%;Microsoft
+Sound, video and game controllers:usbaudio丗@wdma_usb.inf,%usb\class_01.devicedesc%;USB Audio Device: USB2.0 MIC: Microsoft :Date 11-19-2010 Ver 6.1.7601.17514: @wdma_usb.inf,%mfgname%;(通用 USB 音频)
+Non-Plug and Play Drivers:lltdio丗Link-Layer Topology Discovery Mapper I/O Driver: :  :Date  Ver 
+Non-Plug and Play Drivers:luafv丗@%systemroot%\system32\drivers\luafv.sys,-100: :  :Date  Ver 
+System devices:MEIx64丗@oem6.inf,%heci_devicedesc%;Intel(R) Management Engine Interface : :  :Date  Ver : @oem6.inf,%mfgname%;Intel
+System devices:TermDD丗@machine.inf,%rdp_mou.devicedesc%;Terminal Server Mouse Driver: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%gendev_mfg%;(标准系统设备)
+Mice and other pointing devices:mouhid丗@msmouse.inf,%hid.mousedevice%;HID-compliant mouse: : Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @msmouse.inf,%msmfg%;Microsoft
+Mice and other pointing devices:mouhid丗@msmouse.inf,%hid.mousedevice%;HID-compliant mouse: : Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @msmouse.inf,%msmfg%;Microsoft
+Non-Plug and Play Drivers:mountmgr丗@%SystemRoot%\system32\drivers\mountmgr.sys,-100: :  :Date  Ver 
+Non-Plug and Play Drivers:mpsdrv丗@%SystemRoot%\system32\FirewallAPI.dll,-23092: :  :Date  Ver 
+Non-Plug and Play Drivers:mrxsmb丗@%systemroot%\system32\wkssvc.dll,-1002: :  :Date  Ver 
+Non-Plug and Play Drivers:mrxsmb10丗@%systemroot%\system32\wkssvc.dll,-1004: :  :Date  Ver 
+Non-Plug and Play Drivers:mrxsmb20丗@%systemroot%\system32\wkssvc.dll,-1006: :  :Date  Ver 
+IDE ATA/ATAPI controllers:msahci丗@oem7.inf,%pci\ven_8086&dev_1e02.devicedesc%;Intel(R) 7 Series/C216 Chipset Family SATA AHCI Controller - 1E02: : Intel :Date 7-25-2013 Ver 9.3.0.1029: @oem7.inf,%intel%;Intel
+Non-Plug and Play Drivers:Msfs丗Msfs: :  :Date  Ver 
+Non-Plug and Play Drivers:msisadrv丗msisadrv: :  :Date  Ver 
+System devices:msisadrv丗@oem8.inf,%pci\ven_8086&dev_1e49.devicedesc%;Intel(R) B75 Express Chipset LPC Controller - 1E49: : Intel :Date 7-25-2013 Ver 9.3.0.1029: @oem8.inf,%intel%;Intel
+Non-Plug and Play Drivers:Mup丗@%systemroot%\system32\drivers\mup.sys,-101: :  :Date  Ver 
+Non-Plug and Play Drivers:NativeWifiP丗NativeWiFi Filter: :  :Date  Ver 
+Non-Plug and Play Drivers:NDIS丗@%SystemRoot%\system32\drivers\ndis.sys,-200: :  :Date  Ver 
+Non-Plug and Play Drivers:Ndisuio丗NDIS Usermode I/O Protocol: :  :Date  Ver 
+Non-Plug and Play Drivers:NDProxy丗NDProxy: :  :Date  Ver 
+Non-Plug and Play Drivers:netactmonitor丗netactmonitor: :  :Date  Ver 
+Non-Plug and Play Drivers:NetBIOS丗NetBIOS Interface: :  :Date  Ver 
+Non-Plug and Play Drivers:NetBT丗@%SystemRoot%\system32\drivers\netbt.sys,-2: :  :Date  Ver 
+Non-Plug and Play Drivers:Npfs丗Npfs: :  :Date  Ver 
+Non-Plug and Play Drivers:Ntfs丗Ntfs: :  :Date  Ver 
+Non-Plug and Play Drivers:Null丗Null: :  :Date  Ver 
+Display adapters:nvlddmkm丗@oem14.inf,%nvidia_dev.1200%;NVIDIA GeForce GTX 560 Ti: : NVIDIA :Date 2-23-2017 Ver 21.21.13.7878: @oem14.inf,%nvidia_a%;NVIDIA
+Ports (COM & LPT):Parport丗@msports.inf,%*pnp0400.devicedesc%;打印机端口: 打印机端口 (LPT1): Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @msports.inf,%std%;(标准端口类型)
+Disk drives:disk丗@disk.inf,%disk_devdesc%;磁盘驱动器: ST1000DM003-1CH162 ATA Device: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @disk.inf,%genmanufacturer%;(标准磁盘驱动器)
+Disk drives:disk丗@disk.inf,%disk_devdesc%;磁盘驱动器: WDC WD10EZEX-08M2NA0 ATA Device: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @disk.inf,%genmanufacturer%;(标准磁盘驱动器)
+System devices:pci丗@oem5.inf,%xhci.devicedesc%;PCI 总线: : 英特尔 :Date 2-22-2013 Ver 1.0.8.251: @oem5.inf,%stddev%;（标准系统设备）
+System devices:pci丗@oem11.inf,%pci\ven_8086&dev_0101.devicedesc%;Xeon E3-1200/2nd Generation Intel(R) Core(TM) Processor Family PCI Express Root Port - 0101: : Intel :Date 7-25-2013 Ver 9.2.0.1035: @oem11.inf,%intel%;Intel
+System devices:pci丗@oem8.inf,%pci\ven_8086&dev_1e10.devicedesc%;Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 1 - 1E10: : Intel :Date 7-25-2013 Ver 9.3.0.1029: @oem8.inf,%intel%;Intel
+System devices:pci丗@oem8.inf,%pci\ven_8086&dev_1e12.devicedesc%;Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 2 - 1E12: : Intel :Date 7-25-2013 Ver 9.3.0.1029: @oem8.inf,%intel%;Intel
+System devices:pci丗@machine.inf,%pci\ven_8086&dev_244e.devicedesc%;Intel(R) 82801 PCI Bridge - 244E: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%intel_mfg%;Intel
+System devices:pci丗@machine.inf,%pci\ven_8086&dev_244e.devicedesc%;Intel(R) 82801 PCI Bridge - 244E: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%intel_mfg%;Intel
+System devices:pci丗@machine.inf,%pci\cc_0604.devicedesc%;PCI standard PCI-to-PCI bridge: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%gendev_mfg%;(标准系统设备)
+Non-Plug and Play Drivers:pcw丗Performance Counters for Windows Driver: :  :Date  Ver 
+Non-Plug and Play Drivers:Psched丗@%SystemRoot%\System32\drivers\pacer.sys,-101: :  :Date  Ver 
+Non-Plug and Play Drivers:QQProtectX64丗QQProtect Driver For x64: :  :Date  Ver 
+Non-Plug and Play Drivers:rdbss丗@%systemroot%\system32\wkssvc.dll,-1000: :  :Date  Ver 
+Non-Plug and Play Drivers:RDPCDD丗@%systemroot%\system32\DRIVERS\RDPCDD.sys,-100: :  :Date  Ver 
+Non-Plug and Play Drivers:RDPENCDD丗@%systemroot%\system32\drivers\RDPENCDD.sys,-101: :  :Date  Ver 
+Non-Plug and Play Drivers:RDPREFMP丗@%systemroot%\system32\drivers\RdpRefMp.sys,-101: :  :Date  Ver 
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Storage Volumes:volsnap丗@volume.inf,%storage\volume.devicedesc%;通用卷: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @volume.inf,%msft%;Microsoft
+Non-Plug and Play Drivers:rspndr丗Link-Layer Topology Discovery Responder: :  :Date  Ver 
+Network adapters:RTL8167丗@oem12.inf,%rtl8168.devicedesc%;Realtek PCIe GBE Family Controller: : Realtek :Date 8-26-2014 Ver 7.90.826.2014: @oem12.inf,%realtek%;Realtek
+Ports (COM & LPT):Serial丗@msports.inf,%*pnp0501.devicedesc%;通信端口: 通信端口 (COM1): Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @msports.inf,%std%;(标准端口类型)
+Ports (COM & LPT):Serial丗@msports.inf,%*pnp0501.devicedesc%;通信端口: 通信端口 (COM1): Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @msports.inf,%std%;(标准端口类型)
+Non-Plug and Play Drivers:srv丗@%systemroot%\system32\srvsvc.dll,-102: :  :Date  Ver 
+Non-Plug and Play Drivers:srv2丗@%systemroot%\system32\srvsvc.dll,-104: :  :Date  Ver 
+Non-Plug and Play Drivers:srvnet丗srvnet: :  :Date  Ver 
+Non-Plug and Play Drivers:storflt丗@%SystemRoot%\system32\vmstorfltres.dll,-1000: :  :Date  Ver 
+Non-Plug and Play Drivers:Tcpip丗@%SystemRoot%\system32\tcpipcfg.dll,-50003: :  :Date  Ver 
+Non-Plug and Play Drivers:tdx丗@%SystemRoot%\system32\tcpipcfg.dll,-50004: :  :Date  Ver 
+Network adapters:tunnel丗@nettun.inf,%isatap.displayname%;Microsoft ISATAP Adapter: : Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @nettun.inf,%msft%;Microsoft
+Network adapters:tunnel丗@nettun.inf,%isatap.displayname%;Microsoft ISATAP Adapter: Microsoft ISATAP Adapter #2: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @nettun.inf,%msft%;Microsoft
+Network adapters:tunnel丗@nettun.inf,%isatap.displayname%;Microsoft ISATAP Adapter: Microsoft ISATAP Adapter #3: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @nettun.inf,%msft%;Microsoft
+Network adapters:tunnel丗@nettun.inf,%isatap.displayname%;Microsoft ISATAP Adapter: Microsoft ISATAP Adapter #4: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @nettun.inf,%msft%;Microsoft
+Network adapters:tunnel丗@nettun.inf,%teredo.displayname%;Microsoft Teredo Tunneling Adapter: Teredo Tunneling Pseudo-Interface: Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @nettun.inf,%msft%;Microsoft
+Non-Plug and Play Drivers:udfs丗udfs: :  :Date  Ver 
+System devices:umbus丗@umbus.inf,%umbusroot.devicedesc%;UMBus Root Bus Enumerator: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @umbus.inf,%ms%;Microsoft
+System devices:umbus丗@umbus.inf,%umbus.devicedesc%;UMBus Enumerator: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @umbus.inf,%ms%;Microsoft
+Universal Serial Bus controllers:usbccgp丗@usb.inf,%usb\composite.devicedesc%;USB Composite Device: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usb.inf,%generic.mfg%;(标准 USB 主控制器)
+Universal Serial Bus controllers:usbccgp丗@usb.inf,%usb\composite.devicedesc%;USB Composite Device: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usb.inf,%generic.mfg%;(标准 USB 主控制器)
+Universal Serial Bus controllers:usbehci丗@oem10.inf,%pci\ven_8086&dev_1e2d.devicedesc%;Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E2D: : Intel :Date 7-31-2013 Ver 9.3.0.1030: @oem10.inf,%intel%;Intel
+Universal Serial Bus controllers:usbehci丗@oem10.inf,%pci\ven_8086&dev_1e26.devicedesc%;Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E26: : Intel :Date 7-31-2013 Ver 9.3.0.1030: @oem10.inf,%intel%;Intel
+Universal Serial Bus controllers:usbhub丗@usbport.inf,%usb\root_hub20.devicedesc%;USB Root Hub: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usbport.inf,%generic.mfg%;(标准 USB 主控制器)
+Universal Serial Bus controllers:usbhub丗@usbport.inf,%usb\root_hub20.devicedesc%;USB Root Hub: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usbport.inf,%generic.mfg%;(标准 USB 主控制器)
+Universal Serial Bus controllers:usbhub丗@usb.inf,%usb\class_09.devicedesc%;Generic USB Hub: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+Universal Serial Bus controllers:usbhub丗@usb.inf,%usb\class_09.devicedesc%;Generic USB Hub: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @usb.inf,%generichub.mfg%;(Generic USB Hub)
+Universal Serial Bus controllers:usbprint丗@usbprint.inf,%usbprint.devicedesc%;USB 打印支持: : Microsoft :Date 6-21-2006 Ver 6.1.7600.16385: @usbprint.inf,%msft%;Microsoft
+System devices:vdrvroot丗@machine.inf,%vdrvroot.devicedesc%;Microsoft 虚拟驱动器枚举器驱动程序: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%gendev_mfg%;(标准系统设备)
+Non-Plug and Play Drivers:VgaSave丗VgaSave: :  :Date  Ver 
+System devices:vmci丗@oem27.inf,%loc.vmwarehostdevicedesc%;VMware VMCI Host Device: : VMware, Inc. :Date 5-25-2016 Ver 9.8.6.0: @oem27.inf,%loc.vmwaremanufacturer%;VMware, Inc.
+Network adapters:VMnetAdapter丗@oem26.inf,%vmnetadapter1.devicedesc%;VMware Virtual Ethernet Adapter for VMnet1: : VMware, Inc. :Date 9-27-2016 Ver 4.2.8.0: @oem26.inf,%companyname%;VMware, Inc.
+Network adapters:VMnetAdapter丗@oem26.inf,%vmnetadapter8.devicedesc%;VMware Virtual Ethernet Adapter for VMnet8: : VMware, Inc. :Date 9-27-2016 Ver 4.2.8.0: @oem26.inf,%companyname%;VMware, Inc.
+Non-Plug and Play Drivers:VMnetBridge丗VMware Bridge Protocol: :  :Date  Ver 
+Non-Plug and Play Drivers:VMnetUserif丗VMware Virtual Ethernet Userif for VMnet: :  :Date  Ver 
+Non-Plug and Play Drivers:vmx86丗VMware vmx86: :  :Date  Ver 
+System devices:volmgr丗@machine.inf,%volmgr.devicedesc%;Volume Manager: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @machine.inf,%gendev_mfg%;(标准系统设备)
+Non-Plug and Play Drivers:volmgrx丗@%SystemRoot%\system32\drivers\volmgrx.sys,-100: :  :Date  Ver 
+Non-Plug and Play Drivers:vsock丗vSockets Virtual Machine Communication Interface Sockets driver: :  :Date  Ver 
+Non-Plug and Play Drivers:vwififlt丗Virtual WiFi Filter Driver: :  :Date  Ver 
+Non-Plug and Play Drivers:Wdf01000丗Kernel Mode Driver Frameworks service: :  :Date  Ver 
+Non-Plug and Play Drivers:WfpLwf丗WFP Lightweight Filter: :  :Date  Ver 
+System devices:WmiAcpi丗@acpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @acpi.inf,%msft%;Microsoft
+Non-Plug and Play Drivers:ws2ifsl丗Windows 套接字 2 .0 Non-IFS 服务提供程序支持环境: :  :Date  Ver 
+Non-Plug and Play Drivers:WudfPf丗@%SystemRoot%\system32\drivers\Wudfpf.sys,-1000: :  :Date  Ver 
+癟陪ボ丗炊硄(1)
+癟陪ボ丗炊硄(5)
+厨丗冈灿(0)
+驹矮︽笆抖丗⑤④(1)
+BgmSysEnable丗⑤④(1)
+SeSysEnable丗⑤④(1)
+MovieSysEnable丗⑤④(1)
+⑿⒄③丗⑤④(1)
+丗⑤④(1)
+Movie丗⑤④(1)
+⑿⒄③秖丗80(80)
+秖丗100(100)
+笴栏毙厩丗⑤④(1)
+Window Mode丗FullScreen(1)
+F⑤④(1)
+SeSysEnable丗⑤④(1)
+MovieSysEnable丗⑤④(1)
+⑿⒄③丗⑤④(1)
+丗⑤④(1)
+Movie丗⑤④(1)
+⑿⒄③秖丗80(80)
+秖丗100(100)
+笴栏毙厩丗⑤④(1)
+Window Mode丗FullScreen(1)
+dev_mfg%;(标准系统设备)
+Non-Plug and Play Drivers:volmgrx丗@%SystemRoot%\system32\drivers\volmgrx.sys,-100: :  :Date  Ver 
+Network adapters:VPCNetS2丗@oem87.inf,%vmnetsrvmp_desc%;Virtual Machine Network Services Driver: IPvE Adapter - Virtual Machine Network Services Driver: Microsoft :Date 1-16-2008 Ver 2.6.623.0: @oem87.inf,%microsoft%;Microsoft
+Network adapters:VPCNetS2丗@oem87.inf,%vmnetsrvmp_desc%;Virtual Machine Network Services Driver: Realtek PCIe GBE Family Controller - Virtual Machine Network Services Driver: Microsoft :Date 1-16-2008 Ver 2.6.623.0: @oem87.inf,%microsoft%;Microsoft
+Non-Plug and Play Drivers:vsock丗vSockets Driver: :  :Date  Ver 
+Non-Plug and Play Drivers:vwififlt丗Virtual WiFi Filter Driver: :  :Date  Ver 
+Non-Plug and Play Drivers:Wdf01000丗Kernel Mode Driver Frameworks service: :  :Date  Ver 
+Non-Plug and Play Drivers:WfpLwf丗WFP Lightweight Filter: :  :Date  Ver 
+System devices:WmiAcpi丗@acpi.inf,%*pnp0c14.devicedesc%;Microsoft Windows Management Interface for ACPI: : Microsoft :Date 6-21-2006 Ver 6.1.7601.17514: @acpi.inf,%msft%;Microsoft
+Non-Plug and Play Drivers:ws2ifsl丗Windows 套接字 2 .0 Non-IFS 服务提供程序支持环境: :  :Date  Ver 
+Non-Plug and Play Drivers:WudfPf丗User Mode Driver Frameworks Platform Driver: :  :Date  Ver 
+癟陪ボ丗炊硄(1)
+癟陪ボ丗炊硄(5)
+厨丗虏(2)
+驹矮︽笆抖丗⑤④(1)
+BgmSysEnable丗⑤④(1)
+SeSysEnable丗⑤④(1)
+MovieSysEnable丗⑤④(1)
+⑿⒄③丗⑤④(1)
+丗⑤④(1)
+Movie丗⑤④(1)
+⑿⒄③秖丗43(43)
+秖丗39(39)
+笴栏毙厩丗⑤⒃⒃(0)
+Window Mode丗FullScreen(1)
+FWindows 套接字 2 .0 Non-IFS 服务提供程序支持环境: :  :Date  Ver 
+Non-Plug and Play Drivers:WudfPf丗User Mode Driver Frameworks Platform Driver: :  :Date  Ver 
+癟陪ボ丗炊硄(1)
+癟陪ボ丗炊硄(5)
+厨丗冈灿(0)
+驹矮︽笆抖丗⑤④(1)
+BgmSysEnable丗⑤④(1)
+SeSysEnable丗⑤④(1)
+MovieSysEnable丗⑤④(1)
+⑿⒄③丗⑤④(1)
+丗⑤④(1)
+Movie丗⑤④(1)
+⑿⒄③秖丗80(80)
+秖丗100(100)
+笴栏毙厩丗⑤④(1)
+Window Mode丗FullScreen(1)
