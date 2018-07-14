@@ -1,3 +1,4 @@
 1 CentOS 安装PHP7的正确姿势.txt
-2 pecl channel-update pecl.php.net
-3 pecl install swoole
+2 yum install rh-php71-php-devel
+3 pecl channel-update pecl.php.net
+4 pecl install swoole
