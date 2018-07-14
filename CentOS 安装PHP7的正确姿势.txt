@@ -1,0 +1,40 @@
+所以本篇推荐用SCL（Software Collections）软件库安装高版本的PHP。SCL属于CentOS官方的软件库，经过充分测试，安装软件时不会替换系统的核心文件，保证了系统的稳定性。
+
+安装SCL很简单，只需一条命令就可以了：
+
+[root@localhost]# yum install centos-release-scl-rh
+
+    1
+
+然后就能在yum中搜到新版的PHP了：
+
+[root@localhost]# yum search php
+
+
+先看看SCL安装了哪些软件：
+
+[root@localhost]# scl -l
+rh-php70
+
+    1
+    2
+
+可以看到我们在系统安装了一个rh-php70，先启用它并执行命令：
+
+[root@localhost]# scl enable rh-php70 "php -v"
+PHP 7.0.10 (cli) (built: Nov  3 2016 08:06:03) ( NTS )
+Copyright (c) 1997-2016 The PHP Group
+Zend Engine v3.0.0, Copyright (c) 1998-2016 Zend Technologies
+
+    1
+    2
+    3
+    4
+
+命令成功执行了。要是每一条命令都要这么执行，太麻烦了！不要紧，你可以不用每次执行一条命令，而是直接执行 bash 命令，那么新开的shell就能自动识别php了：
+
+[root@localhost]# scl enable rh-php70 bash
+[root@localhost]# php -v
+PHP 7.0.10 (cli) (built: Nov  3 2016 08:06:03) ( NTS )
+Copyright (c) 1997-2016 The PHP Group
+Zend Engine v3.0.0, Copyright (c) 1998-2016 Zend Technologies
