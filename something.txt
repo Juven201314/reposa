@@ -1,6 +1,7 @@
 systemctl start mysqld
 mysql 5.7 查看初始密码 grep 'temporary password' /var/log/mysqld.log
-set password for root@localhost = password("Mysql234142#")
+MySQL 5.7.5 及之前版本：set password for root@localhost = password("Mysql234142#")
+MySQL 5.7.6 及之后版本：ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
 开放端口 firewall-cmd --zone=public --add-port=3306/tcp --permanent(没有--permanent则重启失效)
 systemctl stop firewalld
 yum install php-pear php-devel
