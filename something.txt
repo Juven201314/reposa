@@ -68,3 +68,8 @@ TYPE=Ethernet
 BOOTPROTO=none
 BRIDGE=br0
 //没看错，删除原来的，就留这5行
+
+nmcli connection reload
+
+from
+https://blog.csdn.net/genjiv/article/details/125810457
